@@ -10,4 +10,4 @@
 
 ### 部署
 已部署到streamlit share (https://share.streamlit.io/)  
-打开该项目等网址：https://suoxiang-resume.treamlit.app/
+打开该项目等网址：https://suoxiang-resume.streamlit.app/
